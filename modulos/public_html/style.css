@@ -6,4 +6,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
     Created on : 19 Jan 2024, 01:28:24
     Author     : Michelle
 */
-
+body{
+font-family: monospace;
+color: salmon;
+}
