@@ -12,7 +12,7 @@
 <li>Programaciónn de servicios y procesos</li>
 <li>Desarrollo de interfaces
 
-![imagen](/imagenes/imagen.png) 
+![imagen](/modulos/imagenes/imagen.png) 
 
 _Bloque de código_
 ```java
